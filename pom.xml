@@ -17,11 +17,11 @@
   </properties>
 
   <dependencies>
-		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-chrome-driver</artifactId>
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-chrome-driver</artifactId>
       <version>4.1.4</version>
-		</dependency>
+    </dependency>
 
     <dependency>
       <groupId>junit</groupId>
